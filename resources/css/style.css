@@ -31,3 +31,7 @@ h3 {
 p {
   font-size: 14px;
 }
+
+.background h3 {
+  color: white;
+}
